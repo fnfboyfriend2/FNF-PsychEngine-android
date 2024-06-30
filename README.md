@@ -3,4 +3,4 @@ My try to port [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) to
 
 ## [Building](docs/building.md)
 
-# Currently in WIP
+## No more interested to code this repo, but has some cool things in [this folder](source/input)
